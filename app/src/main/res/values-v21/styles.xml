@@ -9,7 +9,7 @@
     </style>
 
     <!-- FullScreen theme. -->
-    <style name="FullScreen" parent="AppTheme">
+    <style name="FullScreen" parent="android:Theme.Material.Light.NoActionBar.Fullscreen">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
         <item name="android:windowFullscreen">true</item>
