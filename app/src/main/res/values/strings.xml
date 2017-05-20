@@ -11,4 +11,7 @@
     <string name="sao_paulo">Palmeiras</string>
     <string name="corinthians">Corinthians</string>
     <string name="label_sign_up">Sign Up</string>
+    <string name="sign_up_confirmation">
+        Olá, %1$s parabéns por torcer pelo %2$s.
+    </string>
 </resources>
