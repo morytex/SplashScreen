@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="teams">
+        <item>@string/select_team</item>
+        <item>@string/sao_paulo</item>
+        <item>@string/corinthians</item>
+        <item>@string/palmeiras</item>
+    </string-array>
+</resources>

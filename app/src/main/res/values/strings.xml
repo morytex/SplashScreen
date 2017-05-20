@@ -3,4 +3,12 @@
     <string name="logo_splash_screen">Logo do splash screen</string>
     <string name="title">Time S2</string>
     <string name="footer">Desenvolvido por Alessandro</string>
+    <string name="hint_name">Nome</string>
+    <string name="hint_age">Idade</string>
+
+    <string name="select_team">Selecione o time</string>
+    <string name="palmeiras">Palmeiras</string>
+    <string name="sao_paulo">Palmeiras</string>
+    <string name="corinthians">Corinthians</string>
+    <string name="label_sign_up">Sign Up</string>
 </resources>
