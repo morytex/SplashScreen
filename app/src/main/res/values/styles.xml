@@ -15,4 +15,22 @@
         <item name="android:windowFullscreen">true</item>
     </style>
 
+    <style name="default_center_label">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorTitle</item>
+    </style>
+
+    <style name="title_label" parent="default_center_label">
+        <item name="android:text">@string/title</item>
+        <item name="android:textSize">@dimen/title_size</item>
+    </style>
+
+    <style name="developer_info_footer" parent="default_center_label">
+        <item name="android:text">@string/footer</item>
+        <item name="android:textSize">@dimen/footer_size</item>
+    </style>
+
 </resources>

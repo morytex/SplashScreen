@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">Splash Screen</string>
     <string name="logo_splash_screen">Logo do splash screen</string>
+    <string name="title">Time S2</string>
+    <string name="footer">Desenvolvido por Alessandro</string>
 </resources>
