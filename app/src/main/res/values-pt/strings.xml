@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Time S2</string>
+    <string name="corinthians">Corinthians</string>
+    <string name="footer">Desenvolvido por Alessandro</string>
+    <string name="hint_age">Idade</string>
+    <string name="hint_name">Nome</string>
+    <string name="label_sign_up">Cadastrar</string>
+    <string name="logo_splash_screen">Logo do splash screen</string>
+    <string name="palmeiras">Palmeiras</string>
+    <string name="sao_paulo">São Paullo</string>
+    <string name="select_team">Selecione o time</string>
+    <string name="title">Time S2</string>
+    <string name="sign_up_confirmation">Olá, %1$s parabéns por torcer pelo %2$s.</string>
+</resources>

@@ -1,17 +1,14 @@
 <resources>
-    <string name="app_name">Splash Screen</string>
-    <string name="logo_splash_screen">Logo do splash screen</string>
-    <string name="title">Time S2</string>
-    <string name="footer">Desenvolvido por Alessandro</string>
-    <string name="hint_name">Nome</string>
-    <string name="hint_age">Idade</string>
-
-    <string name="select_team">Selecione o time</string>
+    <string name="app_name" translatable="false">Time S2</string>
+    <string name="logo_splash_screen">Splash screen logo</string>
+    <string name="title">Team S2</string>
+    <string name="footer">Developed by Alessandro</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_age">Age</string>
+    <string name="select_team">Select team</string>
     <string name="palmeiras">Palmeiras</string>
-    <string name="sao_paulo">Palmeiras</string>
+    <string name="sao_paulo">São Paullo</string>
     <string name="corinthians">Corinthians</string>
     <string name="label_sign_up">Sign Up</string>
-    <string name="sign_up_confirmation">
-        Olá, %1$s parabéns por torcer pelo %2$s.
-    </string>
+    <string name="sign_up_confirmation">Hello, %1$s congratulations on cheering for %2$s.</string>
 </resources>
